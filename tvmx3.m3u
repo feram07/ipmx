@@ -49,24 +49,10 @@ https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
 #EXTINF:-1  group-title="Bics MX", MX: TELEFORMULA
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m3u8
 
-
-*****************************************************************************************************************************************************
-************************************************  CANALES REGIONALES Y YOUTUBE  *********************************************************************
-
 #EXTINF:-1 group-title="Bics REGIONALES MX", MEX: IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 
-#EXTINF:-1 group-title="Bics REGIONALES MX", NL: TELEVISA MONTERREY
-https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
 
-#EXTINF:-1 group-title="Bics REGIONALES MX", NL: TELEVISA NORESTE
-https://ythls-v3.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
-
-#EXTINF:-1 group-title="Bics REGIONALES MX", NL: MULTIMEDIOS
-https://ythls-v3.onrender.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw.m3u8
-
-#EXTINF:-1 group-title="Bics REGIONALES MX", PUE: TELEVISA PUEBLA
-https://ythls-v3.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 
 
 
