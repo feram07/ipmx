@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="México", Las Estrellas
+https://channel01.iptv-org.com/lasestrellas.m3u8
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" group-title="México", Azteca Uno
+https://channel02.iptv-org.com/aztecauno.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="México", Canal 5
+https://channel03.iptv-org.com/canal5.m3u8
+
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once" group-title="México", Canal Once
+https://channel04.iptv-org.com/canalonce.m3u8
+
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" group-title="México", Imagen TV
+https://channel05.iptv-org.com/imagentelevision.m3u8
+
+#EXTINF:-1 tvg-id="Canal22.mx" tvg-name="Canal 22" group-title="México", Canal 22
+https://channel06.iptv-org.com/canal22.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40" group-title="México", ADN 40
+https://channel07.iptv-org.com/adn40.m3u8
+
