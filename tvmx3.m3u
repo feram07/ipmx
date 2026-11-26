@@ -18,14 +18,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 http://38.44.109.41:8003/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx@Plus1",Azteca Uno +1 (720p)
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
-http://45.181.87.106/CANAL5HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
-http://45.189.151.7:8000/play/a05s
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (576p)
-http://206.135.11.174:8010/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@XETTDT",Canal 5 XET-TDT (1080p)
-http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.mx@HD",Canal Once (1080p)
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD",Las Estrellas (1080p)
