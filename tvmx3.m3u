@@ -39,7 +39,6 @@ https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
 https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
 #EXTINF:-1 tvg-id="",Pokémon
 https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 02.2 Foro TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="TV LOCAL", 04.4 N+ Monterrey
