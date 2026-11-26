@@ -1,22 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas 1
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" group-title="México", Azteca Uno 2
-https://channel02.iptv-org.com/aztecauno.m3u8
-
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once" group-title="México", Canal Once
-https://channel04.iptv-org.com/canalonce.m3u8
-
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno 3
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
+#EXTINF:-1 tvg-id="Azteca7.mx@SD",Azteca 7 (1080p)
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx@SD",Azteca 7 (720p)
+http://200.35.176.154:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD",Azteca Deportes Network (720p)
+http://38.194.226.190:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD",Azteca Deportes Network (720p)
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
+http://167.249.23.102:8000/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD",Azteca Uno (1080p)
+http://38.44.109.41:8003/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx@Plus1",Azteca Uno +1 (720p)
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
+http://45.181.87.106/CANAL5HD/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
+http://45.189.151.7:8000/play/a05s
+#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (576p)
+http://206.135.11.174:8010/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@XETTDT",Canal 5 XET-TDT (1080p)
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx@HD",Canal Once (1080p)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (1080p)
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (576p)
+http://45.5.118.152:8000/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="AvatarLaLeyendadeAang.us@LatAm",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 tvg-id="",Azteca Deportes Premium (720p)
+https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
+#EXTINF:-1 tvg-id="",Azteca UNO -1 hora (720p)
+https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+#EXTINF:-1 tvg-id="HeyArnold.us@LatAm",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistoriasdeUltratumba.us@LatAm",Historias de Ultratumba
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+#EXTINF:-1 tvg-id="",Hunter x Hunter
+https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAventura.us@LatAm",Pluto TV Aventura
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.us@LatAm",Pluto TV Cine Acción
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineClasico.us@LatAm",Pluto TV Cine Clásico
+https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@LatAm",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineCrimen.us@LatAm",Pluto TV Cine Crimen
+https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@LatAm",Pluto TV Cine Drama
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@LatAm",Pluto TV Cine Estelar
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@LatAm",Pluto TV Cine Familia
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineInspirador.us@LatAm",Pluto TV Cine Inspirador
+https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineSuspenso.us@LatAm",Pluto TV Cine Suspenso
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+#EXTINF:-1 tvg-id="CineTerror.us@LatAm",Pluto TV Cine Terror
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us@LatAm",Pluto TV Misterios
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@LatAm",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeries.us@LatAm",Pluto TV Series
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeAccion.us@LatAm",Pluto TV Series de Acción
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeComedia.us@LatAm",Pluto TV Series de Comedia
+https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeCrimen.us@LatAm",Pluto TV Series de Crimen
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeSciFi.us@LatAm",Pluto TV Series de Sci-Fi
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+#EXTINF:-1 tvg-id="StarTrek.us@LatAm",Pluto TV Star Trek
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
+#EXTINF:-1 tvg-id="",Pokémon
+https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
+#EXTINF:-1 tvg-id="Runtime.us@SD",Runtime (720p)
+https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
+#EXTINF:-1 tvg-id="",The Walking Dead by AMC
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
+#EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu-Gi-Oh
+https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 
 
 
